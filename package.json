@@ -1,0 +1,22 @@
+{
+  "name": "git-avatar-downloader",
+  "version": "1.0.0",
+  "description": "downloads avatar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ychiang/git-avatar-downloader.git"
+  },
+  "author": "Grace Chiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ychiang/git-avatar-downloader/issues"
+  },
+  "homepage": "https://github.com/ychiang/git-avatar-downloader#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
